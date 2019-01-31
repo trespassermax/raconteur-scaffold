@@ -1,3 +1,7 @@
+# Red Mercury
+
+This is a fork for the raconteur scaffold that allows for back-end modifications as needed for the red mercury project.
+
 # Raconteur Development Template
 
 A scaffold for [Raconteur] projects.
@@ -22,7 +26,7 @@ Raconteur is designed to be used with a toolchain made of several powerful web d
 - [npm]
 - [Gulp]
 - [Browserify]
-- [CoffeeScript]
+#- [CoffeeScript]
 - [Less]
 - Numerous Gulp-related and Node packages; see the package.json file
 
